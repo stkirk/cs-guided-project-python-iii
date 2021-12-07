@@ -12,3 +12,6 @@ Examples:
 def single_number(nums):
     # Your code here
 
+print(single_number([3,3,2]))
+print(single_number([5,2,3,2,3]))
+print(single_number([10]))

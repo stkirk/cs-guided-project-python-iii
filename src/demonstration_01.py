@@ -16,3 +16,5 @@ Notes:
 def two_sum(nums, target):
     # Your code here
 
+print(two_sum([2,5,9,13], 7))
+print(two_sum([4, 3, 5], 8))
